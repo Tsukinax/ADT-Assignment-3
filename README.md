@@ -1,5 +1,7 @@
 # Infix to Postfix Converter
 
+## Dalanphop Keawsiripong 672115018
+
 ## Description
 This Java program reads an infix expression from a file (`input1.txt`), checks if it is valid, and converts it to a postfix expression using a custom stack implemented with a linked list. The program supports reading expressions both from a file and directly through user input via the `Scanner` class.
 
